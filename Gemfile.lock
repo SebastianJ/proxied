@@ -153,7 +153,7 @@ GEM
       rake (>= 0.8.7)
       thor (~> 1.0)
     rake (13.0.3)
-    rdoc (6.3.0)
+    rdoc (6.3.2)
     rexml (3.2.4)
     rspec-core (3.10.0)
       rspec-support (~> 3.10.0)
